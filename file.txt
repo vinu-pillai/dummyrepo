@@ -5,3 +5,4 @@ This is the third line of this file
 This file was edited in dumbranch of git and this is the line added at it's best.
 This is the line added in master branch and it's well fed!
 This line is added to check the merge conflict...This was done on master branch buddy!
+Created a new branch again - dummyb and added this line ... right now right here.!
