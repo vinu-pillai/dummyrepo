@@ -1,0 +1,2 @@
+This file is created on GitHub and let's check git fetch on local.
+I guess I need to add more lines then..which could be well fed.
